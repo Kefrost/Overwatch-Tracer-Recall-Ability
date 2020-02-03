@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 6cd359735fd3e4e4892515473d4a5207
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle
+    100004: Circle.001
+    100006: Circle.002
+    100008: Circle.003
+    100010: Circle.004
+    100012: Circle.005
+    100014: Cylinder
+    100016: //RootNode
+    100018: Plane
+    100020: Plane.001
+    100022: Plane.002
+    100024: Plane.003
+    100026: Plane.004
+    100028: Plane.005
+    100030: Plane.006
+    100032: Plane.007
+    100034: Plane.008
+    100036: Plane.009
+    100038: Plane.010
+    100040: Plane.011
+    100042: Text
+    400000: Camera
+    400002: Circle
+    400004: Circle.001
+    400006: Circle.002
+    400008: Circle.003
+    400010: Circle.004
+    400012: Circle.005
+    400014: Cylinder
+    400016: //RootNode
+    400018: Plane
+    400020: Plane.001
+    400022: Plane.002
+    400024: Plane.003
+    400026: Plane.004
+    400028: Plane.005
+    400030: Plane.006
+    400032: Plane.007
+    400034: Plane.008
+    400036: Plane.009
+    400038: Plane.010
+    400040: Plane.011
+    400042: Text
+    2000000: Camera
+    2100000: White Metal PBR
+    2100002: Black Plastic PBR
+    2100004: Steel
+    2100006: Blue Glow.001
+    2100008: Blue Glow
+    2100010: PBR Steel
+    2100012: Blue Glow.002
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Circle.003
+    2300008: Circle.004
+    2300010: Circle.005
+    2300012: Cylinder
+    2300014: Plane
+    2300016: Plane.001
+    2300018: Plane.002
+    2300020: Plane.003
+    2300022: Plane.004
+    2300024: Plane.005
+    2300026: Plane.006
+    2300028: Plane.007
+    2300030: Plane.008
+    2300032: Plane.009
+    2300034: Plane.010
+    2300036: Plane.011
+    2300038: Text
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Circle.003
+    3300008: Circle.004
+    3300010: Circle.005
+    3300012: Cylinder
+    3300014: Plane
+    3300016: Plane.001
+    3300018: Plane.002
+    3300020: Plane.003
+    3300022: Plane.004
+    3300024: Plane.005
+    3300026: Plane.006
+    3300028: Plane.007
+    3300030: Plane.008
+    3300032: Plane.009
+    3300034: Plane.010
+    3300036: Plane.011
+    3300038: Text
+    4300000: Plane.003
+    4300002: Text
+    4300004: Circle.005
+    4300006: Circle.004
+    4300008: Plane.011
+    4300010: Cylinder
+    4300012: Plane.010
+    4300014: Plane.009
+    4300016: Circle.003
+    4300018: Plane.008
+    4300020: Plane.007
+    4300022: Plane.006
+    4300024: Plane.005
+    4300026: Plane.004
+    4300028: Plane.002
+    4300030: Circle.002
+    4300032: Plane.001
+    4300034: Circle.001
+    4300036: Plane
+    4300038: Circle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic PBR
+    second: {fileID: 2100000, guid: 7094dfefb9f87cd41944778b3fe8a09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Glow
+    second: {fileID: 2100000, guid: af50b4ac938589d4ca55f7f674030dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Glow.001
+    second: {fileID: 2100000, guid: b52d13c5958f3f140bde6960dfdc48c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Glow.002
+    second: {fileID: 2100000, guid: f0dd5067eab758c4ab8049a4c4fa83cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PBR Steel
+    second: {fileID: 2100000, guid: 9772750c49ba59947a5e0fc9ee4055fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: cfb01e6c8bf7e86429bdaf33dcad4dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Metal PBR
+    second: {fileID: 2100000, guid: 48de6eb9ab4b75d48a3a72fcb068cdda, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
